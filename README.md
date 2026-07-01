@@ -101,8 +101,8 @@
 ## 🧠 LeetCode Stats
 
 <div align="center">
-  <a href="https://leetcode.com/u/ishaniii/" target="_blank">
-    <img src="https://leetcode.com/u/ishaniii/?theme=dark&font=JetBrains%20Mono&ext=contest&hide=ranking,total_solved_badge" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/ishaniii/">
+    <img src="https://leetcard.jacoblin.cool/ishaniii?theme=dark&font=JetBrains+Mono&ext=contest" alt="LeetCode Stats" />
   </a>
 </div>
 
