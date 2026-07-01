@@ -102,7 +102,7 @@
 
 <div align="center">
   <a href="https://leetcode.com/u/ishaniii/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Ishani-Prajapati?theme=dark&font=JetBrains%20Mono&ext=contest&hide=ranking,total_solved_badge" alt="LeetCode Stats" />
+    <img src="https://leetcode.com/u/ishaniii/?theme=dark&font=JetBrains%20Mono&ext=contest&hide=ranking,total_solved_badge" alt="LeetCode Stats" />
   </a>
 </div>
 
