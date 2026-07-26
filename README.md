@@ -1,152 +1,200 @@
 <div align="center">
 
-# Hi, I'm Ishani 👋
+# Ishani Prajapati
 
-### Aspiring Full Stack Developer &nbsp;·&nbsp; Open Source Contributor &nbsp;·&nbsp; CSE Student
+Full-stack developer · Open-source contributor · Computer Science Undergraduate
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+web+apps+and+exploring+open+source;Curious+about+System+Design+%26+Backend+Dev;Always+learning%2C+always+shipping" alt="Typing SVG" />
+Building full-stack applications, contributing to open source, and exploring backend engineering.
 
-<p>
-  <a href="https://komarev.com/ghpvc/?username=SecuredByIshani&label=Profile%20views&color=0e75b6&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=SecuredByIshani&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  </a>
-  <a href="https://github.com/SecuredByIshani?tab=followers">
-    <img src="https://img.shields.io/github/followers/SecuredByIshani?logo=github&style=for-the-badge" alt="GitHub followers" />
-  </a>
-</p>
+[About](#about) · [Tech Stack](#tech-stack) · [Open Source](#open-source) · [Analytics](#github-analytics) · [Current Focus](#current-focus) · [Contact](#contact)
 
 </div>
 
----
+<br/>
 
-## 💫 About Me
+## About
 
-- 🔭 Currently contributing to open-source projects and building personal web apps
-- 👯 Looking to collaborate on **Web Development** and **Open Source** projects
-- 🌱 Exploring **System Design**, **Backend Development**, **DSA**, and **DevOps**
-- 💬 Ask me about **C++**, **DSA**, **Git/GitHub**, or **Web Development**
-- ⚡ Fun fact: I debug better at 2 AM than during the day 😭
+I'm a Computer Science undergraduate who enjoys building full-stack applications and contributing to open source. Most of my learning has come from understanding existing codebases, solving real problems, and improving software through small, well-tested changes.
 
----
+Through GirlScript Summer of Code (GSSoC), I've contributed to frontend, accessibility, validation, CI, and documentation improvements across multiple projects. Outside open source, I regularly practise DSA in C++ and I'm currently focusing on backend engineering, system design, and building reliable web applications.
 
-## 🌐 Connect With Me
+<br/>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ishani-prajapati-749619344" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ishani.prajapati.2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
----
-
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages**
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python" alt="C++, JavaScript, TypeScript, Python"/>
 
-**Frameworks & Libraries**
+**Frontend**
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="HTML5, CSS3, React, Tailwind CSS, Bootstrap"/>
 
-**Tools & Platforms**
+**Backend**
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express"/>
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="MongoDB, MySQL, Firebase"/>
 
-**Design**
+**Cloud & DevOps**
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" alt="Git, GitHub, Vercel, Netlify"/>
 
----
+**Tools**
 
-## 📊 GitHub Stats
+<img src="https://skillicons.dev/icons?i=figma,vite,postman" alt="Figma, Vite, Postman"/>
+
+<br/>
+
+## Open Source
+
+Most of my open-source work has been through GirlScript Summer of Code (GSSoC). I enjoy understanding an existing codebase before making changes, whether that's tracing a bug, improving accessibility, strengthening validation, or refining the developer experience.
+
+Across my contributions, I've worked on frontend reliability, CI automation, JSON Schema validation, API response handling, accessibility improvements, performance optimizations, and documentation, with most of my work focused on production-ready fixes rather than isolated feature additions.
+
+<br/>
+
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**MediCompare**
+<br/>
+<sub>Healthcare · Comparison tool</sub>
+
+Pulls price, usage, and side-effect information for a medicine into one place, instead of the scattered searching that comparing two similar drugs usually takes.
+
+</td>
+<td width="50%" valign="top">
+
+**CareerPath AI**
+<br/>
+<sub>Career guidance · AI-assisted</sub>
+
+Takes a short profile of someone's current skills and goals and turns it into a specific next step, rather than a generic "learn X, Y, Z" list.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Health Skill**
+<br/>
+<sub>Healthcare · Hackathon build</sub>
+
+Built solo within a hackathon's time limit — scoped tightly enough to actually finish, rather than an ambitious idea that ran out of hours.
+
+</td>
+<td width="50%" valign="top">
+
+**Expense Tracker**
+<br/>
+<sub>Personal finance · Tracker</sub>
+
+Replaces a spreadsheet-and-memory approach to tracking spending with one place to log and categorize it.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## GitHub Analytics
+
+<table>
+<tr>
+<td>
+<img src="https://streak-stats.demolab.com/?user=SecuredByIshani&theme=tokyonight&hide_border=true" width="100%" alt="GitHub contribution streak for SecuredByIshani"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SecuredByIshani&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&hide_border=true" width="100%" alt="GitHub activity graph for SecuredByIshani"/>
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
 
-<p>
-  <img src="https://streak-stats.demolab.com/?user=SecuredByIshani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<sub>Contribution activity</sub>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SecuredByIshani&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&hide_border=true)](https://github.com/SecuredByIshani)
+<img src="https://raw.githubusercontent.com/SecuredByIshani/SecuredByIshani/output/pacman-contribution-graph.svg" width="100%" alt="Animated contribution graph"/>
 
 </div>
 
----
+<br/>
 
-## 🧠 LeetCode Stats
+## Competitive Programming
 
 <div align="center">
-  <a href="https://leetcode.com/u/ishaniii/">
-    <img src="https://leetcard.jacoblin.cool/ishaniii?theme=dark&font=JetBrains+Mono&ext=contest" alt="LeetCode Stats" />
-  </a>
+
+<img src="https://leetcard.jacoblin.cool/ishaniii?theme=dark&font=JetBrains+Mono&ext=contest" width="500" alt="LeetCode stats for ishaniii"/>
+
 </div>
 
----
+300+ problems solved on [LeetCode](https://leetcode.com/u/ishaniii/), alongside a dedicated [`leetcode-solutions`](https://github.com/SecuredByIshani/leetcode-solutions) repository in C++.
 
-## 🏅 Certifications
+<br/>
+
+## Current Focus
+
+> [!NOTE]
+> **Building** — a full-stack project I intend to actually deploy and keep running, not just demo once and set aside.
+
+> [!TIP]
+> **Learning** — backend fundamentals and system design, deliberately, since that's the direction I'm growing into.
+
+> [!IMPORTANT]
+> **Open Source** — staying active in GSSoC, aiming to take on harder issues than the beginner track over time.
+
+> [!NOTE]
+> **2026 Goals** — turn this into an internship (GSoC, MLH Fellowship, or a backend/full-stack role), while keeping the same audit-first habits that got me here.
+
+<br/>
+
+## Certifications
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github.com/SecuredByIshani/SecuredByIshani/raw/main/assets/aws-badge.png" width="72" alt="AWS Academy Data Engineering badge"/>
+<br/>
+<b>AWS Academy</b>
+<br/>
+Data Engineering · Trained
+</td>
+<td align="center" width="50%">
+<img src="https://github.com/SecuredByIshani/SecuredByIshani/raw/main/assets/gssoc-contributor.png" width="72" alt="GSSoC 2026 contributor badge"/>
+<br/>
+<b>GSSoC 2026</b>
+<br/>
+Contributor / Mentee
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Contact
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="250">
-        <img src="./assets/aws-badge.png" width="170" alt="AWS Academy Data Engineering" />
-        <br/><br/>
-        <sub><b>AWS Academy</b></sub><br/>
-        <sub>Data Engineering · Trained</sub>
-      </td>
-      <td align="center" width="250">
-        <img src="./assets/gssoc-contributor.png" width="170" alt="GSSoC 2026 Contributor" />
-        <br/><br/>
-        <sub><b>GSSoC 2026</b></sub><br/>
-        <sub>Contributor / Mentee</sub>
-      </td>
-    </tr>
-  </table>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SecuredByIshani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishani-prajapati-749619344)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ishani.prajapati.2006@gmail.com)
+
 </div>
 
-
-
----
-
-## 🕹️ Contribution Graph
+<br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SecuredByIshani/SecuredByIshani/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SecuredByIshani/SecuredByIshani/output/pacman-contribution-graph.svg" />
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/SecuredByIshani/SecuredByIshani/output/pacman-contribution-graph.svg" />
-  </picture>
-</div>
 
----
+<sub>Open to internship and open-source collaboration — the links above are the fastest way to reach me.</sub>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SecuredByIshani&color=blue&style=for-the-badge" alt="Profile Views" />
-  <br/><br/>
-  <i>🌌 Destiny always demands patience 🌌</i>
 </div>
